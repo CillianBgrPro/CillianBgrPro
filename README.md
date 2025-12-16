@@ -19,18 +19,6 @@
 
 ---
 
-### 🔐 Cybersecurity & Hacking  
-<p align="left">
-  <img src="https://img.shields.io/badge/-OSINT-008000?style=flat-square&logo=osint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Cryptanalysis-004080?style=flat-square&logo=gnupg&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SDR-FFA500?style=flat-square&logo=gnuradio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CTF-FF4500?style=flat-square&logo=protonmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Web_Security-DC143C?style=flat-square&logo=hackerone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Network_Analysis-2E8B57?style=flat-square&logo=wireshark&logoColor=white"/>
-</p>
-
----
-
 ### 🔭 Current Projects  
 - 🚀 **RattArch OS** – Custom **Arch Linux** ISO avec outils de hacking & dev pré-configurés 🛠️  
 - 🤖 **Auto_reko** – Outil automatisé de **reconnaissance cyber** 🕵️  
