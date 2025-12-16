@@ -1,5 +1,5 @@
 <h1 align="center">🐀 Welcome, I'm <span style="color:#ffcc00">Rattus</span></h1>
-<h3 align="center">Dev | Admin Système & Réseau | Offensive Security | Linux Poweruser 🐧</h3>
+<h3 align="center">Dev web full stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
