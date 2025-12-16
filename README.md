@@ -1,4 +1,4 @@
-<h1 align="center">🐀 Welcome, I'm <span style="color:#ffcc00">Rattus</span></h1>
+<h1 align="center">👨‍🦰 Welcome, I'm <span style="color:#ffcc00">Cillian</span></h1>
 <h3 align="center">Dev web full stack</h3>
 
 <p align="center">
