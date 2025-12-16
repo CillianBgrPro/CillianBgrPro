@@ -13,15 +13,6 @@
 ### 🚀 About Me  
 - 🎓 **1ère année de Bachelor** en développement web full stack
 - 💻 Constamment en train d'apprendre, de casser des trucs et de les améliorer 🔥
-- 
-
----
-
-### 🔭 Current Projects  
-- 🚀 **RattArch OS** – Custom **Arch Linux** ISO avec outils de hacking & dev pré-configurés 🛠️  
-- 🤖 **Auto_reko** – Outil automatisé de **reconnaissance cyber** 🕵️  
-- 🌳 **Treez_view** – Visualisation d'arborescence de fichiers Linux **avec GUI** 🖥️  
-- 📚 Projets académiques en **C**, **Java**, et **Python**
 
 ---
 
