@@ -11,11 +11,9 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 **1ère année de Bachelor** en développement & cybersécurité  
-- 🛡️ Passionné par la **cybersécurité**, l'**open-source**, et le **développement système**  
-- 💻 Constamment en train d'apprendre, de casser des trucs et de les améliorer 🔥  
-- 🏴‍☠️ Reverse engineering, PWN, CTFs, sécurité réseau & automatisation sont mon terrain de jeu  
-- 🐧 **Linux enthusiast** - Arch BTW 😎
+- 🎓 **1ère année de Bachelor** en développement web full stack
+- 💻 Constamment en train d'apprendre, de casser des trucs et de les améliorer 🔥
+- 
 
 ---
 
@@ -46,7 +44,7 @@
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 </p>
 
-#### 🖥️ DevOps & Tools  
+#### 🖥️ Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -56,8 +54,6 @@
 
 #### 💾 Databases  
 <p align="left">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
