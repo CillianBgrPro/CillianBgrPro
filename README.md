@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/Shell-Zsh-FFD700?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=yellow&style=for-the-badge" alt="Profile views"/>
-</p>
-
 ---
 
 ### 🚀 About Me  
